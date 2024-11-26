@@ -5,5 +5,5 @@ import java.util.function.Function;
 
 public interface IService {
 
-    Function<?, List<?>> getReadFromFileFunction();
+  Function<?, List<?>> getReadFromFileFunction();
 }
