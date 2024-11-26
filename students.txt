@@ -1,6 +1,6 @@
-Nil
-Ali
-Ahmet
-Gizem
-Eda
-Mehmet
+1 Mehmet Durmaz
+2 Ali Yılmaz
+3 Kadir Yoğurtçular
+4 Ayşe Dallıbal
+5 Eda Bakar
+6 Mehmet Yılmaz

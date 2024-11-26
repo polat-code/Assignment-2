@@ -1,14 +1,16 @@
+package entity;
+
 public class User {
 
-    private final Long id;
+    private final Integer id;
     private String name;
 
-    public User(Long id, String name) {
+    public User(Integer id, String name,String surname) {
         this.id = id;
         this.name = name;
     }
 
-    public Long getId() {
+    public Integer getId() {
         return id;
     }
 
